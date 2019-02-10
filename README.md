@@ -6,6 +6,12 @@ The app has the following screns:
 3- List of items (Popular news)
 4- when clicking on a single item it shows the details of that item.
 
+
+
 Shortages:
 The details page retrieves the id of the item instead of the value.
 no API integeration done. 
+
+
+Build:
+build.gradle (Module: app) might need to change the version in the implemetation section to run on your environment.
